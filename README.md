@@ -6,9 +6,9 @@ This project involves the analysis of player statistics from various teams in a 
 ## Dataset Description
 The dataset contains the following attributes:
 
-*Unnamed: 0: Index
+* Unnamed: 0: Index
 
-*Player: Name of the player
+* Player: Name of the player
 
 *Team: Team to which the player belongs
 
