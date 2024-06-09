@@ -113,3 +113,11 @@ With transformed data stored in the warehouse, your final task is to create mean
    - **Problem Statement 8:** Develop interactive dashboards and visualizations using tools like Power BI, Tableau, or custom web applications using Dash or Streamlit. Create reports that provide insights into player performance, team strategies, and potential areas for improvement. Incorporate advanced analytics like clustering and predictive modeling to forecast future performance.
    - **Additional Complexity:** Integrate real-time data feeds to update the dashboards dynamically.
 
+
+## Scripts:
+
+* Mysql Workbench: For the sql queries being executed and datas being imported
+* vs code: For Python Programming via connection of mysql workbench also
+
+## Contributing:
+Contributions have made by our team members in each kinds of categories in both the presentation and coding part which helps in improving the analysis scripts, enhance visualization techniques, or expand the dataset.
